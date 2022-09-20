@@ -1,0 +1,82 @@
+body{
+    overflow-x: hidden !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Topside{
+    height: 13px;
+    background-color: #016340;
+    overflow-x: hidden;
+}
+.location_1{
+    font-size: x-large;
+    color: #016340;
+    position: absolute;
+    top: 27px;
+    right: 70px;
+    
+}
+
+.navbar-expand-lg .navbar-nav li{
+    padding: 10px;
+    font-size: smaller;
+}
+.navbar-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(58,59,60,12)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.navbar-toggler :focus{
+    box-shadow: none;
+}
+
+.navbar-toggler{
+    position: absolute;
+    right: 10px;
+    top: -60px;
+    border: none;
+    color: green;
+    color: transparent;
+}
+.navbar-light .navbar-toggler{
+    color: transparent;
+}
+
+.snap_1{
+    max-width: 300px;
+    max-height: 300px;
+   
+    object-fit: cover;
+}
+.Store{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #757a77;
+}
+
+.Social_icons{
+    font-size: x-large;
+    
+}
+.footer-top{
+    background-color: rgb(234, 232, 232);
+}
+.footer-bottom{
+    background-color: #f7f6f6;
+}
+ul{
+    list-style-type: none;
+    padding-left: 18px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.Footer_link{
+    opacity: 50%;
+}
+.text_1 p{
+    padding-left: 10px;
+    font-size: small;
+}
+.text_2 p{
+    font-size: x-small;
+}
